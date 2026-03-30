@@ -43,6 +43,6 @@ export { Prisma }
 
 /**
  * Model User
- * Asosiy foydalanuvchi (keyinroq rollar bilan kengaytirasiz)
+ * 
  */
 export type User = Prisma.UserModel

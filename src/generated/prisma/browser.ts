@@ -19,6 +19,6 @@ export * as $Enums from './enums'
 export * from './enums';
 /**
  * Model User
- * Asosiy foydalanuvchi (keyinroq rollar bilan kengaytirasiz)
+ * 
  */
 export type User = Prisma.UserModel

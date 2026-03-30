@@ -14,7 +14,7 @@ import type * as Prisma from "../internal/prismaNamespace"
 
 /**
  * Model User
- * Asosiy foydalanuvchi (keyinroq rollar bilan kengaytirasiz)
+ * 
  */
 export type UserModel = runtime.Types.Result.DefaultSelection<Prisma.$UserPayload>
 
